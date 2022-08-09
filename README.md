@@ -15,3 +15,4 @@ Mídia: Storyset, Canva, ManyPixels e IcoFont.
 
 ## Links
 * <a href="https://cole-lixoeletronico.netlify.app">COLE Netlify</a>
+* <a href="https://www.linkedin.com/posts/yasmin-titow_javascript-css-html-activity-6922393920614055936-zUlG?utm_source=linkedin_share&utm_medium=member_desktop_web">Publicação com vídeo da aplicação</a>
